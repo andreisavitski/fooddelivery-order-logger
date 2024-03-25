@@ -10,7 +10,7 @@ import java.time.LocalDateTime;
 @Getter
 @Builder
 @Jacksonized
-public class OrderAdderDTO {
+public class OrderMessageDTO {
 
     private Long clientId;
 
