@@ -1,6 +1,6 @@
 package by.pvt.logger.repository;
 
-import by.pvt.logger.domain.Order;
+import by.pvt.logger.entity.Order;
 import org.springframework.data.mongodb.repository.MongoRepository;
 import org.springframework.data.mongodb.repository.Query;
 

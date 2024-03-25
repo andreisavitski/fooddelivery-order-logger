@@ -1,4 +1,4 @@
-package by.pvt.logger.domain;
+package by.pvt.logger.entity;
 
 import lombok.Getter;
 import lombok.Setter;

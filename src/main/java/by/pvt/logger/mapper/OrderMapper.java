@@ -1,6 +1,6 @@
 package by.pvt.logger.mapper;
 
-import by.pvt.logger.domain.Order;
+import by.pvt.logger.entity.Order;
 import by.pvt.logger.dto.OrderDTO;
 import by.pvt.logger.dto.OrderMessageDTO;
 import org.mapstruct.Mapper;
