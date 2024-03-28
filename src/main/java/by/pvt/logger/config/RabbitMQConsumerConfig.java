@@ -8,7 +8,7 @@ import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 
 @Configuration
-public class RabbitMQConfig {
+public class RabbitMQConsumerConfig {
 
     @Value("${rabbitmq.queue.json.name}")
     private String jsonQueue;
