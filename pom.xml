@@ -10,7 +10,7 @@
     </parent>
     <groupId>by.pvt.logger</groupId>
     <artifactId>fooddelivery-order-logger</artifactId>
-    <version>0.0.1-SNAPSHOT</version>
+    <version>0.0.1</version>
     <name>fooddelivery-order-logger</name>
     <properties>
         <java.version>19</java.version>
